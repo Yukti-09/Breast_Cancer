@@ -1,10 +1,10 @@
 # Breast_Cancer
 To determine whether a tumor is malignant or benign
 
-Dataset used : Breast Cancer Wisconsin Dignostic Dataset
-Labels : Malignant and Benign
+<br /> Dataset used : Breast Cancer Wisconsin Dignostic Dataset
+<br /> Labels : Malignant and Benign
 
-Training is performed on 80% of the dataset. 
-Testing is performed on 20% of the dataset. 
+<br /> Training is performed on 80% of the dataset. 
+<br /> Testing is performed on 20% of the dataset. 
 
-Accuracy: 92.98%
+<br /> Accuracy: 92.98%
